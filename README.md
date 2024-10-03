@@ -2,9 +2,9 @@
 
 I'm <u>**Chelsea**</u>, a second-year uni student in Sydney, Australia.
 
-I'm currently studying a Bachelor of Information Technology, majoring in Web and App Development, and I'm interested in **front-end web development**.
+I'm currently studying a Bachelor of Information Technology, majoring in Web and App Development, and I'm interested in **full-stack web development**.
 
-I'm still learning a lot of web-related languages at the moment and looking forward to becoming a front-end developer.
+I'm still learning a lot of web-related languages at the moment and looking forward to becoming a full-stack web developer.
 
 Outside of my studies, I'm interested in making music and tattooing as hobbies.
 
