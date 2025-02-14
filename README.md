@@ -1,12 +1,10 @@
 ### Hi there! 👋🏻
 
-I'm <u>**Chelsea**</u>, a second-year uni student in Sydney, Australia.
+I'm <u>**Chelsea**</u>, a third-year uni student in Sydney, Australia.
 
-I'm currently studying a Bachelor of Information Technology, majoring in Web and App Development, and I'm interested in **full-stack web development**.
+currently studying a Bachelor of Information Technology and primarily interested in **full-stack web/app development**.
 
-I'm still learning a lot of web-related languages at the moment and looking forward to becoming a full-stack web developer.
-
-Outside of my studies, I'm interested in making music and tattooing as hobbies.
+Outside of my studies, I'm really into making music(house, tech, afro, r&b, indie). I also play minecraft and league of legends every now and then.
 
 <!--
 **chelspark/chelspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
